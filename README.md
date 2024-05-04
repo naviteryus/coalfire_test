@@ -25,7 +25,7 @@ This repository contains Terraform configurations for deploying AWS infrastructu
 
 ![Architecture Diagram](/EC2_Login_Screenshot.png)
 
-Reference Links:
+## Reference Links:
 
 Links:
 
