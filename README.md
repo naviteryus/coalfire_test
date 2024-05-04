@@ -1,4 +1,4 @@
-# coalfire_test
+# Coalfire_test
 AWS Infrastructure test using Terraform for Coalfire
 
 # Terraform AWS Infrastructure Setup
