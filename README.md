@@ -22,3 +22,5 @@ This repository contains Terraform configurations for deploying the AWS infrastr
 
 - AWS Account: You need to have an AWS account set up.
 - Terraform Installed: Ensure you have Terraform v0.12 or later installed.
+
+![Architecture Diagram](/EC2_Login_Screenshot.png)
