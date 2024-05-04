@@ -24,3 +24,23 @@ This repository contains Terraform configurations for deploying AWS infrastructu
 - Terraform Installed: Ensure you have Terraform v0.12 or later installed.
 
 ![Architecture Diagram](/EC2_Login_Screenshot.png)
+
+Reference Links:
+
+Links:
+
+https://registry.terraform.io/providers/hashicorp/random/latest/docs/resources/string
+https://registry.terraform.io/providers/hashicorp/aws/latest
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/vpc
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/subnet
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/availability_zones
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/internet_gateway	
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/route_table
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/security_group
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/s3_bucket
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/s3_bucket_lifecycle_configuration
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/key_pair
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/lb
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/lb_listener
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/autoscaling_group
