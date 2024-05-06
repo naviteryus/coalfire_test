@@ -3,9 +3,9 @@ AWS Infrastructure test using Terraform for Coalfire.
 
 # Terraform AWS Infrastructure Setup
 
-This repository contains Terraform configurations for deploying AWS infrastructure. The setup includes a Virtual Private Cloud (VPC), 4 subnets (2 public and 2 private), Security Groups, EC2 instances, 1 Auto Scaling Group (ASG), 1 Application Load Balancers (ALB), IAM roles, and 2 S3 buckets with lifecycle rules.
+This repository contains Terraform configurations for deploying AWS infrastructure. The setup includes a Virtual Private Cloud (VPC), 4 subnets (2 public and 2 private), Internet Gateway, Route Table, Security Groups, EC2 instances, 1 Auto Scaling Group (ASG), 1 Application Load Balancers (ALB), IAM roles, and 2 S3 buckets with lifecycle rules.
 
-![Architecture Diagram](/Diagram_2_Tier_Architecture.png)
+![Architecture Diagram](images/Diagram_2_Tier_Architecture.png)
 
 
 ## Project Structure
@@ -23,7 +23,7 @@ This repository contains Terraform configurations for deploying AWS infrastructu
 - AWS Account: You need to have an AWS account set up.
 - Terraform Installed: Ensure you have Terraform v0.12 or later installed.
 
-![Architecture Diagram](/EC2_Login_Screenshot.png)
+![Architecture Diagram](images/EC2_Login_Screenshot.png)
 
 ## Reference Links:
 
